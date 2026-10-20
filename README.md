@@ -53,7 +53,7 @@ Before running the scripts:
 For example, to execute a script, use:
 
 ```bash
-python dcpfinal.py
+python cpfinal.py
 ```
 
 **Note:** `dataset_loader.py` is responsible for loading the datasets. Run the appropriate experimental script separately to perform the corresponding evaluation. The exact execution commands and required arguments may depend on the implementation.
