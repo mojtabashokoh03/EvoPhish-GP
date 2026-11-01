@@ -348,7 +348,7 @@ pset.addPrimitive(operator.mul, 2)
 pset.addPrimitive(protected_div, 2)
 pset.addPrimitive(np.maximum, 2)
 pset.addPrimitive(np.minimum, 2)
-pset.addPrimitive(custom_aggregate, 2)
+#pset.addPrimitive(custom_aggregate, 2)
 
 # Unary operators
 pset.addPrimitive(sigmoid, 1)
